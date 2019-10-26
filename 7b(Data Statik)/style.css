@@ -1,0 +1,17 @@
+.coba {
+    width : 200px;
+    height: 100px;
+}
+
+
+.container {
+    display: flex;
+    position: relative;
+    width: 80% auto;
+    height: 300px;
+    padding: 20px;
+    border-radius: 50px;
+    margin: auto;
+    justify-content: space-around;
+    background: transparent;
+}
